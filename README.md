@@ -4,6 +4,8 @@ This is a repository to assist Margo Specification contributors to sign the CCLA
 # Contributing to Margo Specifications
 This repository is managed by EasyCLA, a bot that ensures contributors have been covered by the appropriate License Agreement. Corporate contributors must sign the [Membership Agreement](https://github.com/margo/EasyCLA/blob/main/Corporate_Contributor_License_Agreement.pdf) before making a contribution. Individual contributors must sign the [Non-Member Feedback Agreement](https://github.com/margo/EasyCLA/blob/main/Individual_Contributor_License_Agreement.pdf). Both documents only need to be executed once. 
 
+For detailed Instructions on the CLA Process, please see [EasyCLA Contributions](https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors).
+
 To initiate the signature process, or to check to see if you are already covered by an existing CCLA, please open a PR against this repo. The EasyCLA bot will block the merge if we don't have the appropriate agreement in place. 
 
 If you are the CLA Manager for your organization - in other words, you are the person who can authorize others in your organization to contribute to Margo - you may manage or authorize contributors at https://easycla.lfx.linuxfoundation.org.
