@@ -1,4 +1,4 @@
-# Margo EasyCLA Repository
+# Margo EasyCLA Repository 
 This is a repository to assist Margo Specification contributors to sign the CCLA or ICLA documents. Please open a trivial PR on this repository to initiate the EasyCLA signing process, which will authorize your contribution(s) to Margo repositories. All PRs will be closed periodically. 
 
 # Contributing to Margo Specifications
